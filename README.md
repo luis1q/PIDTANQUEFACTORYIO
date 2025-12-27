@@ -1,1 +1,1 @@
-Proyecto Automatizacion Industrial -UTP - Univalle
+Proyecto Automatizacion Industrial - UTP - Univalle
